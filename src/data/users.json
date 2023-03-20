@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "user": "Han",
+    "tweets": 333,
+    "followers": 100350,
+    "avatar": "avatar.png"
+  },
+  {
+    "id": 2,
+    "user": "Ted",
+    "tweets": 444,
+    "followers": 100400,
+    "avatar": "avatar.png"
+  },
+  {
+    "id": 3,
+    "user": "Nik",
+    "tweets": 555,
+    "followers": 100450,
+    "avatar": "avatar.png"
+  },
+  {
+    "id": 4,
+    "user": "Olha",
+    "tweets": 666,
+    "followers": 100500,
+    "avatar": "avatar.png"
+  },
+  {
+    "id": 5,
+    "user": "Anna",
+    "tweets": 777,
+    "followers": 100550,
+    "avatar": "avatar.png"
+  },
+  {
+    "id": 6,
+    "user": "Fill",
+    "tweets": 888,
+    "followers": 100600,
+    "avatar": "avatar.png"
+  }
+]
